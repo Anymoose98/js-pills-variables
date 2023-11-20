@@ -16,5 +16,14 @@ let name = "Carlo";
 name = "Marco";
 console.log(name);
 
+// **Esercizio 4**
 let greet = "ciao, Mondo!"
 console.log(greet);
+
+// **Esercizio 4/B**
+let greet = "Come stai, Mondo?"
+console.log(greet);
+
+
+
+
