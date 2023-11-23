@@ -73,5 +73,8 @@
 //     console.log(i)
 // }
 
-const numbers = [10, 20, 30, 40, 50, 60, 70, 80]
-console.log(numbers)
+// const numbers = [10, 20, 30, 40, 50, 60, 70, 80]
+// console.log(numbers)
+
+const fruits = ['mela', 'banana', 'pesca', 'pera', 'albicocca', 'mango', 'kiwi', 'papaya']
+console.log(fruits)
